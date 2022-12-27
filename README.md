@@ -12,4 +12,5 @@ To create a car animation game using HTML, CSS, and JavaScript, you will need to
 There are many resources available online that can help you learn more about how to create games using HTML, CSS, and JavaScript. You might also consider using a game engine or framework, such as Phaser or PlayCanvas, to simplify the development process.
 
 
-# [Play Game:](https://musharafali07.github.io/Car-Animation-Game/)
+# [Game Play](https://musharafali07.github.io/Car-Animation-Game/)
+
